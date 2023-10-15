@@ -1,2 +1,2 @@
-*.DS_Store
-*.zsh.save
+.DS_Store
+.zsh.save
