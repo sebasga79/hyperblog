@@ -2,8 +2,6 @@
 Un blog increíble para el curso de Git y Github de Platzi
 > Este es simplemente un modelo para practicar Git y Github como proyecto de Platzi
 
-> - niñita
-
 En este curso vemos:
 * Todos los comandos de Git
 * El flujo de trabajo de Github
