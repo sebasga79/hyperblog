@@ -1,14 +1,13 @@
 # hyperblog :metal:
 Un blog increíble para el curso de Git y Github de Platzi
-> El curso de Git y Github de platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
+> Este es simplemente un modelo para practicar Git y Github como proyecto de Platzi
 
 > - niñita
 
-En este curso vemos de todo:
+En este curso vemos:
 * Todos los comandos de Git
 * El flujo de trabajo de Github
 * El verdadero amor por las buenas prácticas
-* Trucos muy locos del profesor
-* Las personalidades múltiples de Freddy
+* Trucos del profesor
 
-Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el [curso](https://platzi.com/cursos/git-github/).
+Recomiendo este curso para quienes quieran incursionar y/o aprender sobre Git y Github (https://platzi.com/cursos/git-github/).
