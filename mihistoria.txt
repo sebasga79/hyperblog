@@ -1,5 +1,1 @@
-Esta es la historia de Sebastian Gaviria Trujillo
-
-Sebastian Gaviria tiene 44 años y nació en Pereira
-
-Hoy hablaremos de su vida y obra maestra.
+Este es un simple archivo de texto  (.txt) como prueba para realizar un push hacien la rama principal en Github.
